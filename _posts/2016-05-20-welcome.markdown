@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Complexity：A Guided Tour 读书笔记"
-subtitle:   "复杂与混沌"
+title:      "Welcome!"
+subtitle:   "欢迎来到 Vivian 的博客"
 date:       2016-05-20 10:05:20
 author:     "Wei Zhang"
 header-img: "img/bg/post-2016-fractal.jpg"
