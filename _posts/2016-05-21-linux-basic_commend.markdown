@@ -4,7 +4,7 @@ title:      "Linux 入门（一）"
 subtitle:   "Linux 基本命令"
 date:       2016-05-21 12:20:52
 author:     "Wei Zhang"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/post/linux/linux-jedi.jpg"
 catalog: true
 tags:
     - Linux
