@@ -4,7 +4,7 @@ title:      "Complexity：A Guided Tour 读书笔记"
 subtitle:   "复杂与混沌"
 date:       2016-05-23 12:20:52
 author:     "Wei Zhang"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/bg/post-2016-fractal.jpg"
 catalog: true
 tags:
     - 读书笔记
