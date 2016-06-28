@@ -7,7 +7,7 @@ description: "准研究生 | 张薇 | 这里是 @Vivian 的个人博客，与你
 keyword: "张薇, Vivian, 博客, 个人网站"
 url: "http://vivianzhang.me"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
-
+beian: "鲁ICP备16008493号-2"
 
 
 # SNS settings
