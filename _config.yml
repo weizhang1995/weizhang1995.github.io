@@ -2,7 +2,7 @@
 title: Vivian's Blog
 SEOTitle: 张薇的博客 | Vivian's Blog
 header-img: img/home-bg.jpg
-email: weizhang1995@icloud.com
+
 description: "准研究生 | 张薇 | 这里是 @Vivian 的个人博客，与你一起发现更大的世界。"
 keyword: "张薇, Vivian, 博客, 个人网站"
 url: "http://vivianzhang.me"              # your host, for absolute URL
@@ -12,9 +12,10 @@ beian: "鲁ICP备16008493号-2"
 
 # SNS settings
 RSS: false
-#weibo_username:     3815845674
+email:              weizhang1995@icloud.com
+weibo_username:     3815845674
 #zhihu_username:     
-github_username:    VivianZwei
+#github_username:    VivianZwei
 twitter_username:   VivianZwei
 facebook_username:  100010170793495
 # linkedin_username:  firstname-lastname-idxxxx
@@ -69,7 +70,7 @@ ga_domain: vivianzhang.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，读读书本。世界那么大，我想去看看。"
+sidebar-about-description: "世界那么大，我想去看看。"
 sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
