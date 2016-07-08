@@ -2,7 +2,7 @@
 layout:     post
 title:      "Complexity：A Guided Tour 读书笔记"
 subtitle:   "复杂与混沌"
-date:       2016-05-23 12:20:52
+date:       2016-05-23
 author:     "Wei Zhang"
 header-img: "img/bg/post-2016-fractal.jpg"
 catalog: true
