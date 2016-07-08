@@ -2,7 +2,7 @@
 layout:     post
 title:      "复杂系统 Day 1"
 subtitle:   "BUN 暑期学校第一天的胡思乱想"
-date:       2016-07-08 19:37:20
+date:       2016-07-08
 author:     "Wei Zhang"
 header-img: "img/bg/post-2016-thought.jpg"
 catalog: true
