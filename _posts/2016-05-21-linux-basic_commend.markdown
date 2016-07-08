@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      "Linux 入门（一）"
-subtitle:   "Linux 基本命令"
-date:       2016-05-21 12:20:52
+subtitle:   "Linux 基本命令复习"
+date:       2016-05-21
 author:     "Wei Zhang"
 header-img: "img/post/linux/linux-jedi.jpg"
 catalog: true
@@ -12,7 +12,7 @@ tags:
 
 ---
 
-一些常用的 linux 命令，供初学者学习
+一些常用的 linux 命令复习，供初学者学习
 
 >感谢[雨蒙酱](http://yumengxu.com)带我入坑
 
