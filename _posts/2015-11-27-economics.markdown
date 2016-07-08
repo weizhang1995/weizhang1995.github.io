@@ -2,7 +2,7 @@
 layout:     post
 title:      "假如把月亮交给一位农村老太太"
 subtitle:   "关于国企改革问题的几点看法"
-date:       2015-12-27 14:08:06
+date:       2015-12-27
 author:     "Wei Zhang"
 header-img: "img/bg/post-2015-economics.jpg"
 catalog: true
