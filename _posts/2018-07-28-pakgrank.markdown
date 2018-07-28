@@ -55,7 +55,7 @@ PageRank 的设计原则是重要的网站将被重要的网站链接。这种�
 
 PageRank 算法就是计算这个过程结束（稳定）后每个网站浏览量的排名。
 
-我们用一个向量来表示每个网站的 surfer：
+我们用一个向量来表示每个网站的 surfer 数量：
 
 $$\mathbf{r} = \begin{bmatrix} r_A \\ r_B \\ r_C \\ r_D \\ r_E \\ r_F \end{bmatrix}$$
 
@@ -241,6 +241,7 @@ out：
 
 我们会说他们跟随链接的概率是 $d$，因此随机访问其他网站的概率是 $1-d$。
 我们可以使用一个新的矩阵来计算 surfer 每分钟访问的位置。
+
 $$ M = d \, L + \frac{1-d}{n} \, J $$
 
 $J$ 是一个 $n\times n$ 矩阵，每个元素都是1。
@@ -388,7 +389,6 @@ out：
 # Run this code to see the PageRank for each internet you generate.
 # Hopefully you should see what you might expect
 # - there are a few clusters of important websites, but most on the internet are rubbish!
-%pylab notebook
 r = pageRank(generate_internet(100), 0.9)
 plt.bar(arange(r.shape[0]), r);
 ```
