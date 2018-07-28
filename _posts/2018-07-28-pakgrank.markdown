@@ -4,7 +4,7 @@ title:      "PageRank 算法详解及代码实现"
 subtitle:   "线性代数在复杂网络上的应用"
 date:       2018-07-28
 author:     "Wei Zhang"
-header-img: "img/bg/post-2016-thought.jpg"
+header-img: "img/bg/post-2018-pagerank.jpg"
 catalog: true
 tags:
     - 复杂网络
