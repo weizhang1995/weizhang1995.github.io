@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Content Based Filtering"
+title:      "Content Based Filtering - TensorFlow"
 subtitle:   "简单的协同过滤推荐算法"
 date:       2019-06-05
 author:     "Wei Zhang"
@@ -9,7 +9,8 @@ catalog: true
 tags:
     - 推荐系统
     - 复杂网络
-    - 线性代数  
+    - 线性代数
+    - TensorFlow  
 
 ---
 
