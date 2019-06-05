@@ -13,7 +13,7 @@ tags:
 
 ---
 
-# Content Based Filtering by hand
+## Content Based Filtering by hand
 
 This blog illustrates how to implement a content based filter using low level Tensorflow operations. 
 
@@ -58,7 +58,7 @@ num_feats = len(features)
 num_recommendations = 2
 ```
 
-## Initialize our users, movie ratings and features
+### Initialize our users, movie ratings and features
 
 We'll need to enter the user's movie ratings and the k-hot encoded movie features matrix. Each row of the users_movies matrix represents a single user's rating (from 1 to 10) for each movie. A zero indicates that the user has not seen/rated that movie. The movies_feats matrix contains the features for each of the given movies. Each row represents one of the six movies, the columns represent the five categories. A one indicates that a movie fits within a given genre/category. 
 
@@ -82,7 +82,7 @@ movies_feats = tf.constant([
                 [1, 0, 0, 0, 1]],dtype=tf.float32)
 ```
 
-## Computing the user feature matrix
+### Computing the user feature matrix
 
 We will compute the user feature matrix; that is, a matrix containing each user's embedding in the five-dimensional feature space. 
 
@@ -123,7 +123,7 @@ out
 
 
 
-## Ranking feature relevance for each user
+### Ranking feature relevance for each user
 
 We can use the users_feats computed above to represent the relative importance of each movie category for each user. 
 
@@ -167,7 +167,7 @@ out
     Chris: ['Action', 'Sci-Fi', 'Drama', 'Comedy', 'Cartoon']
 
 
-## Determining movie recommendations. 
+### Determining movie recommendations. 
 
 We'll now use the `users_feats` tensor we computed above to determine the movie ratings and recommendations for each user.
 
