@@ -19,7 +19,7 @@ This blog illustrates how to implement a content based filter using low level Te
 
 (link: https://github.com/GoogleCloudPlatform/training-data-analyst)
 
-To run this lab, we need to use TensorFlow version 1.13.1. 
+To begin with, we need to use TensorFlow version 1.13.1. 
 
 
 ```python
