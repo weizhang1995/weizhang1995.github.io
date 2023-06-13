@@ -1,23 +1,23 @@
 # Site settings
-title: Vivian's Blog
-SEOTitle: 张薇的博客 | Vivian's Blog
+title: Wei's Blog
+SEOTitle: Wei's Blog | Wei的博客
 header-img: img/home-bg.jpg
 
-description: "准研究生 | 张薇 | 这里是 @Vivian 的个人博客，与你一起发现更大的世界。"
-keyword: "张薇, Vivian, 博客, 个人网站"
-url: "http://vivianzhang.me"              # your host, for absolute URL
+description: "这里是 @Wei 的个人博客，与你一起发现更大的世界。"
+keyword: "张薇, Wei Zhang, 博客"
+url: "http://weizhang1995.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
-beian: "鲁ICP备16008493号-2"
+# beian: "鲁ICP备16008493号-2"
 
 
 # SNS settings
 RSS: false
-email:              weizhang1995@icloud.com
-weibo_username:     3815845674
+email:              wei.zhang@gess.ethz.ch
+# weibo_username:     3815845674
 #zhihu_username:     
-#github_username:    VivianZwei
-twitter_username:   VivianZwei
-facebook_username:  100010170793495
+#github_username:    
+twitter_username:   weizhang1995
+# facebook_username:  100010170793495
 # linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -64,7 +64,7 @@ duoshuo_share: true                     # set to false if you want to use Commen
 ba_track_id: 8f6c5b513b160fcff431f26fd45b5c55
 # Google Analytics
 ga_track_id: 'UA-79223060-2'            # Format: UA-xxxxxx-xx
-ga_domain: vivianzhang.me
+ga_domain: http://weizhang1995.github.io
 
 
 
@@ -85,7 +85,7 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 friends: [
     {
         title: "Y.M. Xu 的博客",
-        href: "http://yumengxu.com/"
+        href: "http://yumengxu.github.io"
     },
     {
         title: "Aspire 的博客",
