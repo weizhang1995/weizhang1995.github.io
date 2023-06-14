@@ -1,4 +1,4 @@
-#Vivian 的博客
+#Wei 的博客
 
 本博客模板修改自 [Hux Blog](https://github.com/Huxpro/huxpro.github.io), 添加了 [MathJax](http://mathjax.org) LaTeX 支持以及 [BY-NC-ND](http://creativecommons.org/licenses/by-nc-nd/4.0/) 协议。
 

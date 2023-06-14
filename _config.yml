@@ -1,9 +1,9 @@
 # Site settings
-title: Wei's Blog
-SEOTitle: Wei's Blog | Wei的博客
+title: Wei's Website
+SEOTitle: Wei's Website
 header-img: img/home-bg.jpg
 
-description: "这里是 @Wei 的个人博客，与你一起发现更大的世界。"
+description: "这里是 @Wei 的个人网站，与你一起发现更大的世界。"
 keyword: "张薇, Wei Zhang, 博客"
 url: "http://weizhang1995.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
