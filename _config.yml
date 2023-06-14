@@ -1,5 +1,5 @@
 # Site settings
-title: Wei's Website
+title: Blog
 SEOTitle: Wei's Website
 header-img: img/home-bg.jpg
 
@@ -85,7 +85,7 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 friends: [
     {
         title: "Y.M. Xu 的博客",
-        href: "http://yumengxu.github.io"
+        href: "http://xuyumeng.github.io"
     },
     {
         title: "Aspire 的博客",
