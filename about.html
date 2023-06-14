@@ -14,9 +14,10 @@ header-img: "img/about-bg.jpg"
 
 <!-- English Version -->
 <div class="en post-container">
-    coming soon...
-    <blockquote><p>Yet another Frontend Engineer. <br>
-    Yet another Lifelong Designer.</p></blockquote>
+    
+    <blockquote>
+        <p>coming soon... </p>
+</blockquote>
 
     <p>Hi, Here is <strong>Wei Zhang</strong>, you can call me nickname <strong>Wei</strong>. 
         I'm a doctoral candidate at Social Networks Lab, ETH Zurich. My research interests focus on studying social 
@@ -93,15 +94,15 @@ header-img: "img/about-bg.jpg"
         var _hash = window.location.hash;
         // en
         if(_hash == "#en"){
-            $select.selectedIndex = 1;
-            $en.style.display = "block";
-            $zh.style.display = "none";
+            $select.selectedIndex = 0;
+            $en.style.display = "none";
+            $zh.style.display = "block";
         // zh by default
         }else{
             // not trigger onChange, otherwise cause a loop call.
-            $select.selectedIndex = 0;
-            $zh.style.display = "block";
-            $en.style.display = "none";
+            $select.selectedIndex = 1;
+            $zh.style.display = "none";
+            $en.style.display = "block";
         }
     }
 
