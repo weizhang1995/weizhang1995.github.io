@@ -9,7 +9,6 @@ catalog: true
 tags:
     - review
     - complex system
-    - bachelor
 
 ---
 

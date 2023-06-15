@@ -7,7 +7,6 @@ author:     "Wei Zhang"
 header-img: "img/bg/post-2016-fractal.jpg"
 catalog: true
 tags:
-    - bachelor
     - review
    
 

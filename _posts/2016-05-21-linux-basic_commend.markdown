@@ -8,7 +8,6 @@ header-img: "img/post/linux/linux-jedi.jpg"
 catalog: true
 tags:
     - Linux
-    - bachelor
 
 ---
 
