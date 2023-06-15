@@ -7,7 +7,8 @@ author:     "Wei Zhang"
 header-img: "img/bg/post-2015-economics.jpg"
 catalog: true
 tags:
-    - 经济学
+    - bachelor
+    - review
    
 
 ---

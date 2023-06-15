@@ -7,8 +7,9 @@ author:     "Wei Zhang"
 header-img: "img/bg/post-2016-fractal.jpg"
 catalog: true
 tags:
-    - 读书笔记
-    - 复杂系统
+    - review
+    - complex system
+    - bachelor
 
 ---
 

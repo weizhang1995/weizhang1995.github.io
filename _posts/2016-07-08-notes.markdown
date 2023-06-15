@@ -7,9 +7,8 @@ author:     "Wei Zhang"
 header-img: "img/bg/post-2016-thought.jpg"
 catalog: true
 tags:
-    - 乱七八糟
-    - 复杂系统
-    - 经济学   
+    - random
+    - complex system   
 
 ---
 

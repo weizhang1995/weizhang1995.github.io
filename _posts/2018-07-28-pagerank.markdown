@@ -7,8 +7,8 @@ author:     "Wei Zhang"
 header-img: "img/bg/post-2018-pagerank.jpg"
 catalog: true
 tags:
-    - 复杂网络
-    - 线性代数  
+    - network
+    - math  
 
 ---
 

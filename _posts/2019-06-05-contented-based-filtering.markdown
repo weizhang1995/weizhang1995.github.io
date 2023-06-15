@@ -7,9 +7,8 @@ author:     "Wei Zhang"
 header-img: "img/bg/post-2019-Content-Based.jpg"
 catalog: true
 tags:
-    - 推荐系统
-    - 复杂网络
-    - 线性代数
+    - network
+    - math
     - TensorFlow  
 
 ---

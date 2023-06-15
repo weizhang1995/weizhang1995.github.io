@@ -7,7 +7,7 @@ author:     "Wei Zhang"
 header-img: "img/bg/post-2015-currency.jpg"
 catalog: true
 tags:
-    - 经济学
+    - bachelor
    
 
 ---
